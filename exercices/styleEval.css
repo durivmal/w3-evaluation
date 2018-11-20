@@ -1,0 +1,42 @@
+
+form 
+{
+   
+    background-color: #f2f2f2;   
+    margin-right: 600px;
+    border: black;
+    border: 1px solid rgb(52, 52, 53);
+}
+p
+{
+font-size: 25px;
+font-weight: bold;
+}
+label{
+    display: inline-block;
+    width: 200px;
+}
+input[type=text] {
+    width: 50%;
+    padding: 10px 50px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+input[type=password] {
+    width: 50%;
+    padding: 10px 50px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+input[type=email] {
+    width: 50%;
+    padding: 10px 50px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+input[type=sumit]{
+   
+    padding: 10px 30px;
+
+
+}

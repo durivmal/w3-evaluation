@@ -1,0 +1,60 @@
+
+table{
+    border-collapse: collapse;
+
+}
+#title {
+    text-align: left
+
+}
+table, th, td {
+    font-weight: bold;
+    text-align: left;   
+}
+
+th,td{
+    width: 300px;
+    height: 50px;
+}
+#line1{
+    background-color: rgb(197, 192, 204);
+    text-align: left;
+    
+}
+#line2{
+    background-color: rgb(250, 255, 251);
+    text-align: left;
+}
+#line3{
+    background-color: rgb(151, 173, 221);
+    text-align: left;
+}
+#line4{
+    background-color: rgb(175, 173, 177);
+    text-align: left;
+}
+#line5{
+    background-color: rgb(165, 221, 172);
+    text-align: left;
+}
+#line6{
+    background-color: rgb(250, 174, 233);
+    text-align: left;
+}
+#line7{
+    background-color: rgb(242, 247, 175);
+    text-align: left;
+}
+#line8{
+    background-color: rgb(145, 207, 243);
+    text-align: left;
+}
+#line9{
+    background-color: rgb(247, 252, 252);
+    text-align: left;
+}
+#line10{
+    background-color: rgb(131, 136, 136);
+    text-align: left;
+
+}

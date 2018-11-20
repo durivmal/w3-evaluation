@@ -1,0 +1,101 @@
+
+#container1
+{
+display: flex;
+flex-direction: column;
+border: solid 1px;
+background:rgb(167, 216, 245);
+width: 1100px;
+
+}
+.container2
+{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+height: 80px;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+#divA, #divB, #divD
+{
+display: flex;
+border: solid 1px;
+background: rgb(253, 187, 133);
+width: 100px;
+}
+.container3
+{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+height: 180px;
+background: rgb(141, 141, 241);
+margin-top: 10px;
+margin-bottom: 10px;
+margin-left: 10px;
+margin-right: 10px;
+border: solid 1px;
+}
+#divAA, #divAB
+{
+display: flex;
+border: solid 1px;
+background: gray;
+width: 150px;
+margin-top: 15px;
+margin-bottom: 15px;
+
+}
+.container4
+{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+height: 250px;
+margin-bottom: 10px;
+}
+#divBA
+{
+display:flex;
+flex-direction: column;
+justify-content: space-between;
+margin-left: 50px;
+border: solid 1px;
+background: rgb(240, 154, 154);
+
+}
+#divBAA, #divBBA
+{
+display: flex;
+border: solid 1px;
+background: olivedrab;
+width: 200px;
+height: 100px;
+margin-top: 15px;
+margin-bottom: 15px;
+margin-left: 15px;
+margin-right: 15px;
+}
+#divC
+{
+display: flex;
+flex-direction:row;
+justify-content:right;
+border: solid 1px;
+margin-right: 20px;
+background: black;
+
+}
+#divCA
+{
+display: flex;
+background: rgb(236, 247, 146);
+height: 200px;
+width: 400px; 
+margin-right: 100px;
+margin-left: 200px;
+margin-top: 25px;
+margin-bottom: 25px;
+border: solid 1px;
+}
